@@ -1,0 +1,37 @@
+_repo: Dada-Mit-einem-Holzschnitt-von-Lyonel-Feininger_52370
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Feininger, Lyonel
+    aliases:
+    - Feininger, Léonell Charles
+    - Feininger, Charles Leonell
+    - Feininger, Lyonel Charles Adrian
+    - Feininger, Charles Léonell
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '46821'
+    url: http://www.gutenberg.org/2009/agents/46821
+creator:
+  author:
+    agent_name: Knoblauch, Adolf
+    birthdate: 1882
+    gutenberg_agent_id: '46820'
+    url: http://www.gutenberg.org/2009/agents/46820
+description: ''
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52370'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Dada
+
+  Mit einem Holzschnitt von Lyonel Feininger'
+url: http://www.gutenberg.org/ebooks/52370
